@@ -3,11 +3,11 @@
 `sh HardwareSimulator.sh `
 
 ## 一章の実装順番
-Not
-And
-Or
-Not16
-And16
+Not/
+And/
+Or/
+Not16/
+And16/
 Or16
 Or8Way
 Xor
