@@ -9,7 +9,7 @@ Or/
 Not16/
 And16/
 Or16
-Or8Way
+Or8Way/
 Xor
 Mux
 Mux16
