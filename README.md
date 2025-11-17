@@ -11,7 +11,7 @@ And16/
 Or16/
 Or8Way/
 Xor/
-Mux
+Mux/
 Mux16
 Mux4way16
 Mux8way16
