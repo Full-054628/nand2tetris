@@ -8,9 +8,9 @@ And/
 Or/
 Not16/
 And16/
-Or16
+Or16/
 Or8Way/
-Xor
+Xor/
 Mux
 Mux16
 Mux4way16
